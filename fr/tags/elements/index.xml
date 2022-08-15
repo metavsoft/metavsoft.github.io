@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elements on MetaVSoft - Software Development Company</title>
+    <link>https://metavsoft.github.io/fr/tags/elements/</link>
+    <description>Recent content in elements on MetaVSoft - Software Development Company</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Designed &amp; Developed by [MetaVSoft](https://metavsoft.github.io/)</copyright>
+    <lastBuildDate>Tue, 22 Jan 2019 16:04:01 +0600</lastBuildDate><atom:link href="https://metavsoft.github.io/fr/tags/elements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elements</title>
+      <link>https://metavsoft.github.io/fr/blog/elements/</link>
+      <pubDate>Tue, 22 Jan 2019 16:04:01 +0600</pubDate>
+      
+      <guid>https://metavsoft.github.io/fr/blog/elements/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
